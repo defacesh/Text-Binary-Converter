@@ -55,7 +55,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This project was inspired by the need to convert text and binary easily.
 - Hat tip to anyone whose code was used.
-
-## Contact
-
-For any questions or suggestions, feel free to reach out via email at [hasankarakaya0341@gmail.com](mailto:hasankarakaya0341@gmail.com).
