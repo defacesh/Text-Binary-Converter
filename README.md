@@ -15,7 +15,7 @@ This is a simple Windows Forms application that allows you to convert text to bi
 To run the application locally on your machine, follow these steps:
 
 1. **Clone the repository:**
-git clone https://github.com/Hasan-H-KARAKAYA/Text-Binary-Converter.git
+git clone https://github.com/defacesh/Text-Binary-Converter.git
 
 2. **Open the project:**
 Open the project in Visual Studio or any C# IDE that supports Windows Forms applications.
